@@ -1,0 +1,37 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+  #mainheader h1 {
+    background-color: rgb(202, 197, 197);
+    padding: 20px;
+    font-size: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+  }
+
+  li {
+    float: left;
+    border-right: 1px solid white;
+
+  }
+
+  li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 12px 15px;
+
+  }
+  li a:hover {
+  background-color: rgba(21, 204, 67, 0.836);
+  }
+  h2 {
+    margin-left: 30px;
+    margin-top: 40px;
+  }
+  
